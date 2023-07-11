@@ -21,7 +21,6 @@ alert(c);
 alert(a*b);
 let d=a/b;
 alert(d);
-
 //Задание 5
 let a = 2;
 let b = 5;
